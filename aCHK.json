@@ -1,5 +1,11 @@
 {
-  "site-login": "true",
-  "ads": "true",
-  "google-indexing": "true"
+  "site-login":"true",
+  "ads":"true",
+  "google-indexing":"true",
+  "site-function":{
+    "secret":"/htm/secret-fil/Pirates.json",
+    "actions":"PyTaPi.xml",
+    "templates":"/locker/sitelock/secureaccess.config",
+    "plugins":"jenkins-home"
+  }
 }

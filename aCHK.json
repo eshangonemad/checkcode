@@ -1,5 +1,5 @@
 {
-  "runtime-env":"enabled",
+  "runtime-env":"disabled",
   "ads":"true",
   "google-indexing":"true",
   "site-function":{
